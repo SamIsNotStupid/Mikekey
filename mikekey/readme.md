@@ -1,12 +1,12 @@
 # mikekey
 
-![mikekey](imgur.com image replace me!)
+![mikekey]
 
-*A short description of the keyboard/project*
 
-* Keyboard Maintainer: [mike](https://github.com/mike)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+
+* Keyboard Maintainer: [mike](https://github.com/SamIsNotStupid)
+* Hardware Supported: RP2040
+* Hardware Availability: RP2040
 
 Make example for this keyboard (after setting up your build environment):
 
